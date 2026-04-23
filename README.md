@@ -2,6 +2,8 @@
   <img src="https://github.com/user-attachments/assets/9d48d3a5-23a0-4613-8044-696f550684ec" alt="İbrahim Türköz Banner" width="100%">
 </p>
 
+
+
 # Hi👋, I'm İbrahim Türköz
 **I study Artificial Intelligence Operations from Türkiye.**
 

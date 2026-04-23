@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2ab0f7af-d0d5-4b60-9ed8-bb80343caea5" alt="İbrahim Türköz Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/9d48d3a5-23a0-4613-8044-696f550684ec" alt="İbrahim Türköz Banner" width="100%">
 </p>
 
 # Hi👋, I'm İbrahim Türköz

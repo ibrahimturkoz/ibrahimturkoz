@@ -1,5 +1,5 @@
 # 💫 About Me / Hakkımda:
-🌱 I’m currently learning Python , ML , Unreal / Şu anda Python, ML ve Unreal öğreniyorum<br><br>🤝 I’m looking for help with Game development / Oyun geliştirme konusunda yardım arıyorum<br><br>👨‍💻 All of my projects are available at /Tüm projelerime buradan ulaşabilirsiniz: https://github.com/ibrahimturkoz<br><br>💬 Ask me about MySQL / Bana MySQL hakkında sorular sorabilirsiniz<br><br>📫 How to reach me / Bana ulaşmak için: ibrahimtrkz99@gmail.com<br><br>⚡ Fun fact The city I study in—85% of people in Turkey don’t know where it is on the map. / İlginç bilgi: Okuduğum şehrin haritadaki yerini Türkiye’deki insanların %85’i bilmiyor.
+🌱 I’m currently learning Python , ML , Unreal / Şu anda Python, ML ve Unreal öğreniyorum<br><br>🤝 I’m looking for help with Game development / Oyun geliştirme konusunda yardım arıyorum<br><br>👨‍💻 All of my projects are available at /Tüm projelerime buradan ulaşabilirsiniz: [https://github.com/ibrahimturkoz](https://github.com/ibrahimturkoz?tab=repositories)<br><br>💬 Ask me about MySQL / Bana MySQL hakkında sorular sorabilirsiniz<br><br>📫 How to reach me / Bana ulaşmak için: ibrahimtrkz99@gmail.com<br><br>⚡ Fun fact The city I study in—85% of people in Turkey don’t know where it is on the map. / İlginç bilgi: Okuduğum şehrin haritadaki yerini Türkiye’deki insanların %85’i bilmiyor.
 
 
 ## 🌐 Socials / Sosyal:
